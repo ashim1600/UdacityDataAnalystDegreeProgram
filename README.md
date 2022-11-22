@@ -38,7 +38,6 @@ I analyzed local and global temperature data and compared the temperature trends
 - the average global temperature is increasing, with an also increasing tempo
 - Berlin is the only city in Germany in this dataset which has a higher average temperature than the global average
 
-![Global Weather Trend](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/global_weather_trend.png)
 
 ### P1: Investigate a Dataset (Gapminder World Dataset)
 
@@ -59,7 +58,6 @@ Out of the project:
 
 Here we were confronted with the full joy of a real-life dataset: from hard-to-analyze structure, missing, messy, dirty data to real and - after finally being done with data wrangling - the reward of interesting insights. 
 
-![Life Expectancy To Income 2018](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/life_expectancy_to_income_2018.png)
 
 ### P2: Analyze A/B Test Results
 
@@ -69,15 +67,12 @@ To goal of the project in this chapter was to get experience with A/B testing, i
 
 In the end we brought everything we've learned together to analyze this A/B test properly.
 
-![Sampling distribution](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/sampling_dist.png)
-
 ### P3: Gather, Clean and Analyze Twitter Data (WeRateDogs™ (@dog_rates))
 
 This chapter was a deep dive into the data wrangling part of the data analysis process. We learned about the difference between messy and dirty data, how tidy data should look like, about the assessing, defining, cleaning and testing process, etc. Moreover, we talked about many different file types and different methods of gathering data. 
 
 In this project we had to deal with the reality of dirty and messy data (again). We gathered data from different sources (for example the Twitter API), identified issues with the dataset in terms of tidiness and quality. Afterwards we had to solve these problems while documenting each step. The end of the project was then focused on the exploration of the data.
 
-![Mean of retweets](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/mean_of_retweets_per_month-year_combination.png)
 
 ### P4: Communicate Data Findings
 
@@ -85,4 +80,3 @@ The final chapter was focused on proper visualization of data. We learned about 
 
 The task of the final project was to analyze and visualize real-world data. I chose the Ford GoBike dataset.
 
-![Relative Userfrequncy by gender and area](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/rel_userfreq_by_gender_and_area.png)
