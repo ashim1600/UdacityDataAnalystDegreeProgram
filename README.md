@@ -86,14 +86,3 @@ The final chapter was focused on proper visualization of data. We learned about 
 The task of the final project was to analyze and visualize real-world data. I chose the Ford GoBike dataset.
 
 ![Relative Userfrequncy by gender and area](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/rel_userfreq_by_gender_and_area.png)
-
-## License
-
-* <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"> Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
-
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
-	<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
-</a>
-
-
-
